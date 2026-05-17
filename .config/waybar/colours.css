@@ -1,0 +1,23 @@
+@import url("/home/hugo/.cache/wal/colors-waybar.css");
+
+/* ---------- Background Shades ---------- */
+@define-color bg0 @color0;
+@define-color bg1 @background;
+@define-color bg2 @color8;
+@define-color bg3 @color14;
+@define-color bg4 @color15;
+
+/* ---------- Foreground / Accent Colors ---------- */
+@define-color fg @color15;
+@define-color red @color9;
+@define-color purple @color13;
+@define-color orange @color12;
+@define-color yellow @color12;
+@define-color green @color14;
+@define-color aqua @color15;
+@define-color green-alt @color15;
+
+/* ---------- Greens for Elements ---------- */
+@define-color green0 @color12;
+@define-color green1 @color14;
+@define-color green2 @color15;
