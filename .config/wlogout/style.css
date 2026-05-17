@@ -1,0 +1,52 @@
+* {
+	background-image: none;
+	box-shadow: none;
+}
+
+window {
+	background-color: rgba(30, 46, 30, 0.5);
+}
+
+button {
+	border-color: #3A5A3A;
+	text-decoration-color: #cdd6f4;
+	color: #cdd6f4;
+	background-color: #2B462B;
+	border-style: solid;
+	border-width: 1.5px;
+  border-radius: 8px;
+	background-repeat: no-repeat;
+	background-position: 50% 45%;
+	background-size: 18%;
+  margin: 13px;
+}
+
+button:focus, button:active, button:hover {
+	/* 20% Overlay 2, 80% mantle */
+	background-color: #1B2A1F;
+	outline-style: none;
+}
+
+#lock {
+    background-image: url("/home/hugo/.config/wlogout/icons/lock.svg");
+}
+
+#logout {
+    background-image: url("/home/hugo/.config/wlogout/icons/logout.svg");
+}
+
+#suspend {
+    background-image: url("/home/hugo/.config/wlogout/icons/suspend.svg");
+}
+
+#hibernate {
+    background-image: url("/home/hugo/.config/wlogout/icons/hibernate.svg");
+}
+
+#shutdown {
+    background-image: url("/home/hugo/.config/wlogout/icons/shutdown.svg");
+}
+
+#reboot {
+    background-image: url("/home/hugo/.config/wlogout/icons/reboot.svg");
+}
