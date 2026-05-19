@@ -9,7 +9,7 @@ My hyprland dotfiles
 ![Wayland](https://img.shields.io/badge/-Wayland-FFEB3B?style=flat-square&logo=wayland&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 ## Overview
