@@ -14,6 +14,9 @@ compinit
 # --- Plugin ---
 source ~/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
+# --- Wal Colorscheme ---
+cat /home/hugo/.cache/wal/sequences
+
 # -----------------------------
 # DISABLE BROKEN MENU UI
 # -----------------------------
